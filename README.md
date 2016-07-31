@@ -23,3 +23,9 @@ If **snap to parallel path** is called, then the active lane should orient itsel
 - Joined lanes parallel reference lines
 - Snap to parallel lines
 - Maintaining snapped to parallel line
+
+### To-Do (on this branch)
+- [ ] Create parallel reference lines for lane curves (arc)
+- [ ] Create parallel reference lines for join curves (cubic)
+- [ ] Ensure parallel lines update for entire joined composite lane
+- [ ] Snap to parallel lines
